@@ -1,5 +1,7 @@
 # Zonda-Challenge
 
+All Changes are in the employees.php and styles.php page. 
+
 WordPress Coding and Walk Through
  
 For next part of the interview, we are asking you to do a coding challenge to make a custom employee biography template on a generic website using WordPress. For the admin side of things, you can use Advance Custom Fields for the specific fields.
