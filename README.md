@@ -1,6 +1,6 @@
 # Zonda-Challenge
 
-All Changes are in the employees.php and styles.php page. 
+All Changes are in the employees.php and styles.css page. 
 
 WordPress Coding and Walk Through
  
