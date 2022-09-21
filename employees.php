@@ -40,6 +40,7 @@ get_header();
 
 
 									$logo = $row['division_logo'];
+				    					//same as $image above
 
 							    if( !empty($logo) ):
 
