@@ -15,7 +15,7 @@ get_header();
 
 			<?php
 			$rows = get_field('employees');
-			//get the specified field
+			//get the specified field, or group of fields
 			if( $rows ) {
 				//if there are rows, continue through the loop
 
@@ -38,9 +38,8 @@ get_header();
 									echo '<h4>' . $row['name_co'] . ' • ' . $row['title'] . '</h4>';
 									//basic text field
 
-
 									$logo = $row['division_logo'];
-				    					//same as $image above
+                                    //same as $image above
 
 							    if( !empty($logo) ):
 
